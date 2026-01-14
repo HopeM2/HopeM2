@@ -1,5 +1,4 @@
-## Hi there 👋
-# 💫 About Me:
+# 💫Hi! About Me:
 🔭Computer science student, and I'm just beginning to build my own projects (non uni related)<br>🤝 I’m looking for help with getting into Product Design<br>🌱 I’m currently learning how to build apps!<br>💬 Ask me about computer hardware<br>⚡ Fun fact: I often volunteer in social impact programs
 
 
